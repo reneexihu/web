@@ -1,0 +1,30 @@
+/*h1{
+	color: black;
+	text-transform: uppercase;
+	border-bottom: 2px gray solid;
+	padding-bottom: 15px;
+	border:30%;
+	margin:15px;
+	margin-left: 1.66%
+}
+
+body{
+	margin:10px;
+}*/
+
+
+img {
+	float: left;
+    width:30%;
+    height: 377px;
+    margin:1.66%;
+}
+
+h1{
+	margin:1.66%;
+	border-bottom: 2px solid gray;
+	padding-bottom: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	width: 30%;
+}
