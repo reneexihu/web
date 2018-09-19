@@ -1,0 +1,13 @@
+.squares{
+	width:30%;
+/*	height: 200px;*/
+	padding-top: 30%;
+
+	background-color: pink;
+	float: left;
+	margin: 1.66%;
+}
+#container{
+	width: 60%;
+	margin:20px auto;
+}
